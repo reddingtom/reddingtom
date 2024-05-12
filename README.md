@@ -3,7 +3,7 @@
 
 [![Portfólio](https://img.shields.io/website?label=Reddingtom.com&style=for-the-badge&url=https://sites.google.com/view/reddingtom)](https://sites.google.com/view/reddingtom/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.s.av707@gmail.com)
 
-![Reddingtom GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Reddingtom GitHub stats](https://github-readme-stats.vercel.app/api?username=reddingtom&show_icons=true&theme=oneprobe) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddingtom&layout=compact)
 
 ## Technologies I use in my day
 
