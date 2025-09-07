@@ -1,7 +1,11 @@
 
 ### Hello! I'm Gabriel Avelar || Reddingtom 👋
 
-<p align="center">Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmente venho me dedicando ao desenvolvimento de aplicações utilizando linguagens como Java, Python e JavaScript. Estou sempre ampliando meus conhecimentos e em busca de novos desafios no campo da tecnologia. Tenho entusiasmo por aprender e utilizar esse aprendizado na criação de soluções inovadoras.<p>
+#
+
+Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmente venho me dedicando ao desenvolvimento de aplicações utilizando linguagens como Java, Python e JavaScript. Estou sempre ampliando meus conhecimentos e em busca de novos desafios no campo da tecnologia. Tenho entusiasmo por aprender e utilizar esse aprendizado na criação de soluções inovadoras.
+
+#
 
 <h3 align="left">Connect with me!</h3>
 
