@@ -1,6 +1,8 @@
 
 ### Hello! I'm Gabriel Avelar || Reddingtom 👋
 
+Estou sempre ampliando meus conhecimentos e em busca de novos desafios no campo da tecnologia. Tenho entusiasmo por aprender e utilizar esse aprendizado na criação de soluções inovadoras.
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
