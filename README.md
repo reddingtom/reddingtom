@@ -10,7 +10,7 @@
 
 My stack
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="icon-java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="icon-python" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="icon-javascript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
