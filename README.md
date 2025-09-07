@@ -5,8 +5,8 @@ Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmen
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-souza-b17765239/)
+[![E-mail](https://img.shields.io/badge/-Email-f00?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00f?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-souza-b17765239/)
 
 #
 
