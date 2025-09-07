@@ -3,6 +3,11 @@
 
 Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmente venho me dedicando ao desenvolvimento de aplicações utilizando linguagens como Java, Python e JavaScript. Estou sempre ampliando meus conhecimentos e em busca de novos desafios no campo da tecnologia. Tenho entusiasmo por aprender e utilizar esse aprendizado na criação de soluções inovadoras.
 
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-souza-b17765239/)
+
 #
 
 <div>
@@ -31,8 +36,3 @@ Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 </div>
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-souza-b17765239/)
