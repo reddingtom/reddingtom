@@ -8,7 +8,7 @@
 <img height="128em" src="https://github-readme-stats.vercel.app/api?username=reddingtom&show_icons=true&theme=onedark">
 </div><br/>
 
-My stack
+## My Stack
 
 <div style="display: inline_block">
     <img align="center" alt="icon-java" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
