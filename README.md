@@ -1,4 +1,10 @@
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E00D0D&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 ### Hello! I'm Gabriel Avelar || Reddingtom 👋
 
 Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmente venho me dedicando ao desenvolvimento de aplicações utilizando linguagens como Java, Python e JavaScript. Estou sempre ampliando meus conhecimentos e em busca de novos desafios no campo da tecnologia. Tenho entusiasmo por aprender e utilizar esse aprendizado na criação de soluções inovadoras.
