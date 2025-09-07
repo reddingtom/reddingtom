@@ -5,11 +5,9 @@ Estudante de Sistemas de Informação na Universidade Veiga de Almeida. Atualmen
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddingtom&layout=compact">
 <img height="128em" src="https://github-readme-stats.vercel.app/api?username=reddingtom&show_icons=true&theme=onedark">
-</div><br/>
 
 <h3 align="left">My Stack</h3>
 
