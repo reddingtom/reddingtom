@@ -1,7 +1,10 @@
 
 ### Hello! I'm Gabriel Avelar || Reddingtom 👋
 
-[![Portfólio](https://img.shields.io/website?label=Reddingtom.com&style=for-the-badge&url=https://sites.google.com/view/reddingtom)](https://sites.google.com/view/reddingtom/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.s.av707@gmail.com)
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriel.s.av707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-souza-b17765239/)
 
 <div>
 <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddingtom&layout=compact">
